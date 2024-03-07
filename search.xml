@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>第三篇文章</title>
+      <link href="/2024/03/03/%E7%AC%AC%E5%9B%9B/"/>
+      <url>/2024/03/03/%E7%AC%AC%E5%9B%9B/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> c++ </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> c++ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第二篇文章</title>
+      <link href="/2024/03/03/test/"/>
+      <url>/2024/03/03/test/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> css </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> css </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>python的安装以及编辑器的使用 description:这是第十篇文章</title>
+      <link href="/2024/03/02/%E6%B5%8B%E8%AF%95/"/>
+      <url>/2024/03/02/%E6%B5%8B%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>什么是Pr</title>
+      <link href="/2024/03/01/2024-3-1-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>/2024/03/01/2024-3-1-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="这是我的第一篇文章"><a href="#这是我的第一篇文章" class="headerlink" title="这是我的第一篇文章"></a>这是我的第一篇文章</h2><div class="note default simple"><p>、</p><h1 id="关于Pr"><a href="#关于Pr" class="headerlink" title="关于Pr"></a>关于Pr</h1></div><div class="timeline blue"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>时间轴</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2024-03-07</p></div></div><div class='timeline-item-content'><p>很多小伙伴呢不知道Pr是什么东西；有什么用；那么今天就跟博主一起来学习一下吧！</p><ol><li>Pr是Premiere的简称，是一款常用的视频剪辑软件。很多小伙伴可能用过剪映、快影等剪辑软件，但Pr是目前国内主流的剪辑软件，是视频编辑爱好者和专业人士必不可少的视频编辑工具。它可以提升您的创作能力和创作自由度；是一款易学、高效、精确的视频编辑软件</li><li>Pr提供了采集、剪辑、调色、美化音频、字幕添加、输出、DVD刻录等一整套流程，并和其他Adobe软件高效集成，使您足以完成编辑、制作、工作上遇到的所有挑战，满足您创建高质量作品的要求。</li></ol></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2020-03-07</p></div></div><div class='timeline-item-content'><p>这是博主自己pr的网盘链接，有需要的伙伴可自行下载；<br>url：链接：<a href="https://pan.baidu.com/s/1HolA_Al_9Z8AeT_-Edsv8A?pwd=3e4f">https://pan.baidu.com/s/1HolA_Al_9Z8AeT_-Edsv8A?pwd=3e4f</a><br>     提取码：3e4f<br>先转存到自己的百度网盘再下载。</p></div></div></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> pr </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> pr </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2024/02/28/hello-world/"/>
+      <url>/2024/02/28/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
