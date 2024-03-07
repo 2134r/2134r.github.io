@@ -4,23 +4,23 @@
   
     
     <entry>
-      <title>第三篇文章</title>
+      <title>第二篇文章</title>
       <link href="/2024/03/03/%E7%AC%AC%E5%9B%9B/"/>
       <url>/2024/03/03/%E7%AC%AC%E5%9B%9B/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="认识Pr"><a href="#认识Pr" class="headerlink" title="认识Pr"></a>认识Pr</h1><p>一、自定义自己的工作面板</p><p>以下就是一个默认的工作面板：</p><p><img src="https://bu.dusays.com/2024/03/07/65e9c3e83276c.png" alt="图片"></p><p>效果设计窗口，我建议留下源、效果控件、信息三个元素就ok了；</p><p>若要关闭其他元素，鼠标右键点击要关闭的元素，选择关闭面板：</p><p><img src="https://bu.dusays.com/2024/03/07/65e9c2e19c932.png" alt="图片"></p><p>如果要是想开启其他元素，左键单击菜单栏的窗口，选择自己要开启的元素：</p><p><img src="https://bu.dusays.com/2024/03/07/65e9c314031a1.png" alt="图片"></p><p>其他模块都保持默认。若是觉得布局不习惯，可以选中想移动的模块，按住左键拖动即可；一切工作完成以后，可以保存以下自己的工作面版以防丢失：</p><p><img src="https://bu.dusays.com/2024/03/07/65e9c3462e560.png" alt="图片"></p><p>可以给自己的工作面板起个名字：</p><p><img src="https://bu.dusays.com/2024/03/07/65e9c44c5eac1.png" alt="图片"></p><p>好了，以上就是今天的分享，如果喜欢的话给博主点歌赞！</p>]]></content>
       
       
       <categories>
           
-          <category> c++ </category>
+          <category> pr </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> c++ </tag>
+            <tag> pr </tag>
             
         </tags>
       
