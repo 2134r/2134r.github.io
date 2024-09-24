@@ -190,20 +190,20 @@
 
 #cursor.hover {
   opacity: 0.1;
-  transform: scale(2.5);
   -webkit-transform: scale(2.5);
   -moz-transform: scale(2.5);
   -ms-transform: scale(2.5);
   -o-transform: scale(2.5);
+  transform: scale(2.5);
 }
 
 #cursor.active {
   opacity: 0.5;
-  transform: scale(0.5);
   -webkit-transform: scale(0.5);
   -moz-transform: scale(0.5);
   -ms-transform: scale(0.5);
   -o-transform: scale(0.5);
+  transform: scale(0.5);
 }
 
 
@@ -211,6 +211,7 @@
 /* 首页文章卡片 */
 #recent-posts > .recent-post-item {
   background: var(--trans-light);
+  -webkit-backdrop-filter: var(--backdrop-filter);
   backdrop-filter: var(--backdrop-filter);
   border-radius: 25px;
   border: var(--border-style);
@@ -219,6 +220,7 @@
 /* 首页侧栏卡片 */
 #aside-content .card-widget {
   background: var(--trans-light);
+  -webkit-backdrop-filter: var(--backdrop-filter);
   backdrop-filter: var(--backdrop-filter);
   border-radius: 18px;
   border: var(--border-style);
@@ -229,6 +231,7 @@ div#post,
 div#page,
 div#archive {
   background: var(--trans-light);
+  -webkit-backdrop-filter: var(--backdrop-filter);
   backdrop-filter: var(--backdrop-filter);
   border: var(--border-style);
   border-radius: 20px;
@@ -237,6 +240,7 @@ div#archive {
 /* 导航栏 */
 #page-header.nav-fixed #nav {
   background: rgba(255, 255, 255, 0.75);
+  -webkit-backdrop-filter: var(--backdrop-filter);
   backdrop-filter: var(--backdrop-filter);
 }
 
